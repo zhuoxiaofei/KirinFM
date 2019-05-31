@@ -1,4 +1,4 @@
-package net.lzzy.kirinfm;
+package net.lzzy.kirinfm.pager;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

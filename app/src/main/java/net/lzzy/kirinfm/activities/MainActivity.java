@@ -12,7 +12,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 
 import net.lzzy.kirinfm.R;
-import net.lzzy.kirinfm.StaticViewPager;
+import net.lzzy.kirinfm.pager.StaticViewPager;
 import net.lzzy.kirinfm.fragments.ChartFragment;
 import net.lzzy.kirinfm.fragments.FindFragment;
 import net.lzzy.kirinfm.fragments.LocalFragment;
